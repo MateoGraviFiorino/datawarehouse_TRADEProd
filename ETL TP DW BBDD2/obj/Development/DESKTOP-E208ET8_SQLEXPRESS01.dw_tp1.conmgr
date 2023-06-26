@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-E208ET8_SQLEXPRESS01.dw_tp1"
+  DTS:DTSID="{6059355A-DDE5-4243-BAAE-879D2CA136AC}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-E208ET8\SQLEXPRESS01;Initial Catalog=dw_tp;Integrated Security=True;Application Name=SSIS-ETL TP DW BBDD2-{6059355A-DDE5-4243-BAAE-879D2CA136AC}DESKTOP-E208ET8\SQLEXPRESS01.dw_tp1;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
